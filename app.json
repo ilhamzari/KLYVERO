@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "KLYVERO",
+    "slug": "klyvero",
+    "scheme": "klyvero",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "backgroundColor": "#0B0D10"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.klyvero.app"
+    },
+    "android": {
+      "package": "com.klyvero.app"
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
