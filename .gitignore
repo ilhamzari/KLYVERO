@@ -1,0 +1,24 @@
+# Dependencies
+node_modules/
+
+# Expo
+.expo/
+dist/
+web-build/
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+
+# Native build outputs
+*.keystore
+*.p8
+*.p12
+*.mobileprovision
+
+# Logs and OS files
+npm-debug.log*
+yarn-debug.log*
+.DS_Store
+Thumbs.db
